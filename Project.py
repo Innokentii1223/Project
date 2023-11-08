@@ -27,7 +27,7 @@ async def on_message(message):
             await message.channel.send(file=pit)
         else:
             webbrowser.open_new('https://www.un.org/ru/climatechange/science/causes-effects-climate-change')
-client.run('MTE3MTg0NjI5MTI2NTk2MjAxNw.GXujei.kr_tojzRr-DVW8ZoAMPtogAPM106cjXHI9a_50')
+client.run('token')
 
 if __name__ == '__main__':
     pass
